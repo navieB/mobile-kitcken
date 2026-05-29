@@ -1,7 +1,10 @@
 # Mobile Kitchen Website
 
-This project is a simple multi-page website for **Mobile Kitchen**.
+# Student information
+Name: Navela Linah Baloyi
+student number: ST10534420
 
+## Website preview 
 ## Pages
 - `index.html` — Home
 - `about.html` — About Us
@@ -16,11 +19,5 @@ This project is a simple multi-page website for **Mobile Kitchen**.
 All images and media are stored under:
 - `assets/images/`
 
-## How to run
-Open any of the HTML files in your browser (no build tools required).
-
-## Git
-To view history on GitHub, this repository is pushed as:
-- Commit message: **"part 2 first commit"**
-- Branch: **main**
+## Website Goals and Objectives
 
