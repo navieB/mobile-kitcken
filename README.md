@@ -42,3 +42,8 @@ Contact (contact.html)
 Enquire (enquiry.html)
 # Home Page (index.html)
 Hero banner with headline and “Book Now” CTA linking
+
+# picture
+<img width="1536" height="1024" alt="main" src="https://github.com/user-attachments/assets/c34c8630-c913-4f5d-8511-19494ae46a23" />
+
+
